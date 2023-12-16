@@ -3,9 +3,10 @@ import './Navbar.css'
 function Navbar() {
   return (
     <div className='nav'>
-        <img  className='nav_image'width={'160px'}
-        src="https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png"  />
-    </div>
+        
+        <img  className='nav_image'width={'150px'}
+        src="https://www.freepnglogos.com/uploads/netflix-logo-0.png"/>
+        </div>
   )
 }
 
